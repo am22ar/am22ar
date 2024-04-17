@@ -8,15 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **C, C++, JAVA, AD.JAVA, SpringBoot, Webflux, MicroServices, Gitlab**
-
-📚 I've learned:
+📚 I have knowledge of:
 **C
 C++
 Advanced Java (AdJava)
 MySQL**
 
-💼 Currently working on:
+💼 I'm actively involved in:
 **Spring Boot
 WebFlux
 Microservices
@@ -47,6 +45,9 @@ MongoDB**
   </a>
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
 </p>
 
