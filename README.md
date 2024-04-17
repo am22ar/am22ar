@@ -16,7 +16,7 @@ C++
 Advanced Java (AdJava)
 MySQL**
 
-<h3>💼 Currently working on:</h3>
+💼 Currently working on:
 **Spring Boot
 WebFlux
 Microservices
