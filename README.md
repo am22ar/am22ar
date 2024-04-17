@@ -10,11 +10,20 @@
 
 - 🌱 I’m currently learning **C, C++, JAVA, AD.JAVA, SpringBoot, Webflux, MicroServices, Gitlab**
 
-- 📫 How to reach me **amarpatil12222@gmail.com**
+📚 I've learned:
+**C
+C++
+Advanced Java (AdJava)
+MySQL**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h3>💼 Currently working on:</h3>
+**Spring Boot
+WebFlux
+Microservices
+GitLab
+MongoDB**
+
+- 📫 How to reach me **amarpatil12222@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
  <p align="left">
